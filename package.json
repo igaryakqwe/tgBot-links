@@ -1,0 +1,18 @@
+{
+  "name": "tgbot-links",
+  "version": "1.0.0",
+  "description": "",
+  "main": "tgBot.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "node-telegram-bot-api": "^0.59.0",
+    "nodemon": "^2.0.20"
+  }
+}
