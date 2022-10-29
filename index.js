@@ -40,7 +40,7 @@ const collection = {
     ozszh: `Предмет: *Основи здоровго способу життя*\n\nПосилання: https://us02web.zoom.us/j/4387354937?pwd=R3R3NkpWU09GY3kvanZBeEcrQWZoUT09`,
     init: `Предмет: *Історія науки і техніки*\n\nПосилання: https://meet.google.com/rkh-wzhn-ueg`,
     op: `Предмет: *Основи програмування*\n\nПосилання: https://meet.google.com/ewv-mnbk-dmt`,
-    asd: `Предмет: *Алгоритми і структури данних\n\nЛекції*\n\nПосилання:  https://bbb.comsys.kpi.ua/b/ana-fxo-y2d-ykw\n\n*Практики*\n\nПосилання:  https://us02web.zoom.us/j/81273958388?pwd=SWN6QmtzK3ZtSllrdk50bUtSYmpVUT09 \n\nПароль:  101010`,
+    asd: `Предмет: *Алгоритми і структури данних\n\n*Лекції*\n\nПосилання:  https://bbb.comsys.kpi.ua/b/ana-fxo-y2d-ykw\n\n*Практики*\n\nПосилання:  https://us02web.zoom.us/j/81273958388?pwd=SWN6QmtzK3ZtSllrdk50bUtSYmpVUT09 \n\nПароль:  101010`,
 }
 
 bot.on('callback_query', msg => {
